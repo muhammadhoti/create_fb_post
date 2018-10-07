@@ -1,4 +1,4 @@
-Give Following Props To Post Component 
+Give Following Props To Post Component <br />
 name : "<Your Name>"
 dp : "<Link Of Your Profile Picture>"
 description :"<post Description>"
